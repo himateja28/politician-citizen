@@ -11,7 +11,7 @@
 	<groupId>com.platform</groupId>
 	<artifactId>politicianCitizen</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>politicianCitizen</name>
 	<description>politican and citizen platform system using spring boot</description>
 	<url/>

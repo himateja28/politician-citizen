@@ -16,7 +16,7 @@ import com.platform.service.UserService;
 
 @RestController
 @RequestMapping("/user")
-@CrossOrigin(origins = "http://localhost:3000/")
+@CrossOrigin(origins = "https://socio-connect-chi.vercel.app/")
 public class UserController {
 
 	@Autowired

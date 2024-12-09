@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
 @RequestMapping("/issue")
-@CrossOrigin(origins = "http://localhost:3000/")
+@CrossOrigin(origins = "https://socio-connect-chi.vercel.app/")
 public class IssueController {
 	@Autowired
 	IssueService IS;

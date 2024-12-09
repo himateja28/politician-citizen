@@ -17,7 +17,7 @@ import org.springframework.web.bind.annotation.RequestBody;
 
 @RestController
 @RequestMapping("/update")
-@CrossOrigin(origins = "http://localhost:3000/")
+@CrossOrigin(origins = "https://socio-connect-chi.vercel.app/")
 public class UpdateCtroller {
 	
 	@Autowired

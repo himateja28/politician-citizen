@@ -17,7 +17,7 @@ import com.platform.service.UserManager;
 
 @RestController
 @RequestMapping("/admin")
-@CrossOrigin(origins = "https://socio-connect-chi.vercel.app/")
+@CrossOrigin(origins = "https://himateja.tech/")
 public class AdminController {
 
 	@Autowired 

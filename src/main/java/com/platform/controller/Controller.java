@@ -9,7 +9,7 @@ public class Controller{
   @GetMapping("/")
   public String home()
   {
-    return "This is baackend application check out https://socio-connect-chi.vercel.app/ for frontend applicaation";
+    return "This is baackend application check out https://himateja.tech/ for frontend applicaation";
   }
   
 }
